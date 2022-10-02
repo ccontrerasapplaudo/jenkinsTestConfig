@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1-Jenkins" parallel="false">
+    <test name="Jenkins test" preserve-order="true">
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="homePageGroup" />-->
+<!--                <include name="digitalCollectionsGroup" />-->
+<!--                <include name="SurveyGroup" />-->
+<!--            </run>-->
+<!--        </groups>-->
+<!--        <dependencies>-->
+<!--            <group name="digitalCollectionsGroup" depends-on="homePageGroup"/>-->
+<!--        </dependencies>-->
+        <classes>
+            <class name="com.example.jenkinstestconfig.FirstSeleniumJavaTest"/>
+<!--            <class name="com.applaudo.homework0601.pages.DigitalCollectionsPageTest"/>-->
+<!--            <class name="com.applaudo.homework0601.pages.SurveyPageTest"/>-->
+        </classes>
+    </test>
+</suite>
