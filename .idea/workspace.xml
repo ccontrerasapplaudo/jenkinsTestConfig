@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Parametrized browser">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" afterDir="false" />
+    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Finish browser parameter">
+      <change afterPath="$PROJECT_DIR$/secondTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/SecondSeleniumJavaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstTest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,8 @@
       <workItem from="1664437145536" duration="2491000" />
       <workItem from="1664478548158" duration="1277000" />
       <workItem from="1664483436381" duration="1718000" />
-      <workItem from="1664675973432" duration="1828000" />
+      <workItem from="1664675973432" duration="2680000" />
+      <workItem from="1664724723954" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="Initial config">
       <created>1664676217962</created>
@@ -67,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664679628714</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Parametrized browser version 2">
+      <created>1664679693980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664679693980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cleaning code">
+      <created>1664679886636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664679886636</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finish browser parameter">
+      <created>1664679929647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664679929647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +112,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial config" />
     <MESSAGE value="Parametrized browser" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parametrized browser" />
+    <MESSAGE value="Parametrized browser version 2" />
+    <MESSAGE value="Cleaning code" />
+    <MESSAGE value="Finish browser parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish browser parameter" />
   </component>
 </project>
