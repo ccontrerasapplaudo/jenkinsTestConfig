@@ -29,6 +29,9 @@ public class FirstSeleniumJavaTest {
             case "firefox":
                 driver = WebDriverManager.firefoxdriver().create();
                 break;
+            case "chrome":
+                driver = WebDriverManager.chromedriver().create();
+                break;
             default:
                 driver = WebDriverManager.chromedriver().create();
         }
