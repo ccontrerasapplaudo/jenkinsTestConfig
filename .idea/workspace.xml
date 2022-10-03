@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Simple demo with loc.gov redirect">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Simple demo with gooogle.com">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <workItem from="1664483436381" duration="1718000" />
       <workItem from="1664675973432" duration="2680000" />
       <workItem from="1664724723954" duration="3872000" />
-      <workItem from="1664810843909" duration="2504000" />
+      <workItem from="1664810843909" duration="3195000" />
     </task>
     <task id="LOCAL-00001" summary="Initial config">
       <created>1664676217962</created>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664811964632</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Simple demo with gooogle.com">
+      <created>1664817127683</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664817127683</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +169,8 @@
     <MESSAGE value="Simple demo with waitTime" />
     <MESSAGE value="Simple demo with google redirect" />
     <MESSAGE value="Simple demo with loc.gov redirect" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple demo with loc.gov redirect" />
+    <MESSAGE value="Simple demo with gooogle.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple demo with gooogle.com" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
