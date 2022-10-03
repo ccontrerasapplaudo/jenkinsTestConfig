@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Simple demo with gooogle.com">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Simple demo with gooogle.com" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
       <workItem from="1664483436381" duration="1718000" />
       <workItem from="1664675973432" duration="2680000" />
       <workItem from="1664724723954" duration="3872000" />
-      <workItem from="1664810843909" duration="3195000" />
+      <workItem from="1664810843909" duration="3203000" />
     </task>
     <task id="LOCAL-00001" summary="Initial config">
       <created>1664676217962</created>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664817127683</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Simple demo with gooogle.com">
+      <created>1664817805202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664817805202</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
