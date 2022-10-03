@@ -12,13 +12,15 @@ public class FirstSeleniumJavaTest {
     String browser = System.getProperty("browser");
 
     @Test
-    public void testEasy(){
-        driver.get("https://www.loc.gov/");
+    public void testEasy() throws InterruptedException {
         driver.manage().window().maximize();
+        driver.get("https://www.loc.gov/");
+        waitTime();
 
         String expectedURL="https://www.loc.gov/";
         String currentURL = driver.getCurrentUrl();
         Assert.assertEquals(currentURL,expectedURL,"The URL is incorrect, redirection fails");
+        waitTime();
     }
 
     @BeforeTest
@@ -41,5 +43,11 @@ public class FirstSeleniumJavaTest {
     @AfterTest
     public void afterTest(){
         driver.quit();
+    }
+
+    public void waitTime() throws InterruptedException {
+        synchronized (driver){
+            driver.wait(4000);
+        }
     }
 }
