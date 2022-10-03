@@ -14,7 +14,7 @@ public class FirstSeleniumJavaTest {
     @Test
     public void testEasy() throws InterruptedException {
         driver.manage().window().maximize();
-        driver.get("https://google.com.sv");
+        driver.get("https://www.loc.gov/");
         waitTime();
 
         String expectedURL="https://www.loc.gov/";
