@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Finish browser parameter">
-      <change afterPath="$PROJECT_DIR$/secondTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/SecondSeleniumJavaTest.java" afterDir="false" />
+    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Tetsting parametrized xml file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firstTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,14 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/IdeaProjects/jenkinsTestConfig&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carlo\IdeaProjects\jenkinsTestConfig" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.jenkinstestconfig" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +61,8 @@
       <workItem from="1664478548158" duration="1277000" />
       <workItem from="1664483436381" duration="1718000" />
       <workItem from="1664675973432" duration="2680000" />
-      <workItem from="1664724723954" duration="706000" />
+      <workItem from="1664724723954" duration="3872000" />
+      <workItem from="1664810843909" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="Initial config">
       <created>1664676217962</created>
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664679929647</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tetsting parametrized xml file">
+      <created>1664735667065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664735667065</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +129,7 @@
     <MESSAGE value="Parametrized browser version 2" />
     <MESSAGE value="Cleaning code" />
     <MESSAGE value="Finish browser parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish browser parameter" />
+    <MESSAGE value="Tetsting parametrized xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tetsting parametrized xml file" />
   </component>
 </project>

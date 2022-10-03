@@ -13,11 +13,12 @@ public class FirstSeleniumJavaTest {
 
     @Test
     public void testEasy(){
-        driver.get("https://testautomationu.applitools.com/");
+        driver.get("https://www.loc.gov/");
         driver.manage().window().maximize();
 
-        String title = driver.getTitle();
-        Assert.assertTrue(title.equals("Test Automation University | Applitools"));
+        String expectedURL="https://www.loc.gov/";
+        String currentURL = driver.getCurrentUrl();
+        Assert.assertEquals(currentURL,expectedURL,"The URL is incorrect, redirection fails");
     }
 
     @BeforeTest
