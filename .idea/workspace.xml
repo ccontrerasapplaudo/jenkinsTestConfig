@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Tetsting parametrized xml file">
+    <list default="true" id="283fef91-2518-432a-9d54-c0870a03bec0" name="Changes" comment="Simple demo with loc.gov redirect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/jenkinstestconfig/FirstSeleniumJavaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlo/IdeaProjects/jenkinsTestConfig&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/carlo/IdeaProjects/jenkinsTestConfig",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\carlo\IdeaProjects\jenkinsTestConfig" />
@@ -62,7 +62,7 @@
       <workItem from="1664483436381" duration="1718000" />
       <workItem from="1664675973432" duration="2680000" />
       <workItem from="1664724723954" duration="3872000" />
-      <workItem from="1664810843909" duration="358000" />
+      <workItem from="1664810843909" duration="2504000" />
     </task>
     <task id="LOCAL-00001" summary="Initial config">
       <created>1664676217962</created>
@@ -106,7 +106,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664735667065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Simple demo">
+      <created>1664811364060</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664811364060</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Simple demo with waitTime">
+      <created>1664811469944</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664811469944</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Simple demo with google redirect">
+      <created>1664811704167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664811704167</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Simple demo with loc.gov redirect">
+      <created>1664811964632</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664811964632</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +158,14 @@
     <MESSAGE value="Cleaning code" />
     <MESSAGE value="Finish browser parameter" />
     <MESSAGE value="Tetsting parametrized xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tetsting parametrized xml file" />
+    <MESSAGE value="Simple demo" />
+    <MESSAGE value="Simple demo with waitTime" />
+    <MESSAGE value="Simple demo with google redirect" />
+    <MESSAGE value="Simple demo with loc.gov redirect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple demo with loc.gov redirect" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
